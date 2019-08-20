@@ -32,13 +32,7 @@ You must give this software project and each contributor credit for contribution
 
 ## How to Credit
 
-In general, you must give credit in such a way that the audience for your work can freely and readily find a written notice identifying:
-
-1.  this software project, by name, as a contribution to your work
-
-2.  each contributor, by name, as a contributor to this software
-
-You must not do anything to stop the audience for your work from sharing, publishing, or using credits.
+In general, you must give credit in such a way that the audience for your work can freely and readily find a written notice identifying this software project, by name, as a contribution to your work, as well as each contributor, by name, as a contributor to this software.  You must not do anything to stop the audience for your work from sharing, publishing, or using credits.
 
 ## Conventions
 
