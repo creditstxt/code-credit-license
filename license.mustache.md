@@ -1,7 +1,19 @@
+{{#license}}
 # Credit License
+{{/license}}
+{{^license}}
+# Credit Requirement
+{{/license}}
 
 Development Draft
 
+{{^license}}
+## Requirement
+
+These terms add to the terms of the license for this software.  These terms become additional obligations under any agreement on those terms, as well as conditions to the license.
+{{/license}}
+
+{{#license}}
 ## Purpose
 
 This license gives everyone as much permission to work with this software as possible, while protecting contributors from liability and requiring credit for their work.
@@ -25,6 +37,7 @@ If anyone notifies you in writing that you have not complied with [Notices](#not
 ## Patent
 
 Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
+{{/license}}
 
 ## Credit
 
@@ -42,6 +55,7 @@ If widespread convention dictates a particular way to give credit for your kind 
 
 If this software includes software and contributor names to credit in a standard way, such as in software package metadata or on an "about" page or screen, you may rely on that information for accuracy and completeness in giving credit.  If this software does not include names to credit in a standard way, but includes a link to a webpage for this software, you must investigate that webpage for names to credit.  If this software provides neither names to credit nor a software-webpage link, you do not have to perform independent research to find names to credit.
 
+{{#license}}
 ## Reliability
 
 No contributor can revoke this license.
@@ -49,3 +63,4 @@ No contributor can revoke this license.
 ## No Liability
 
 ***As far as the law allows, this software comes as is, without any warranty or condition, and no contributor will be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***
+{{/license}}
