@@ -5,7 +5,7 @@
 # Credit Requirement
 {{/license}}
 
-Development Draft
+First Edition, First Draft
 
 {{^license}}
 ## Requirement
