@@ -16,6 +16,18 @@ The project is currently working toward version 1.0.0.
 
 That text is a [flipped form](https://flippedform.com/) in everyday English.  If something doesn't make sense to you, that's the terms' fault, not yours.  Please [open an issue on GitHub](https://github.com/creditstxt/credit-license/issues/new) so we can fix it together.
 
+## Using the Terms
+
+On release of 1.0.0, the terms will be available to use in two ways:
+
+1.  As a complete license that grants broad permission to use your software, but requires credit.
+
+2.  As an addition or "exception" to an existing license, like MIT, BSD, Apache, or GPL.
+
+Those who want to use the complete license can copy it where they would usually copy MIT, BSD, Apache, GPL, or the like.
+
+Those who want to use the exception can append the exception's text to text of MIT, BSD, Apache, GPL, and so on.  If the project comes with an [SPDX](https://spdx.org) license expression, that can be set to, say, `(MIT WITH Credit-Requirement-1.0.0)`.
+
 ## Roadmap
 
 - [ ] Version 1.0.0
