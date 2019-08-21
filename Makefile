@@ -4,7 +4,7 @@ all: build/license.md build/license.pdf build/exception.md build/exception.pdf
 
 .INTERMEDIATE: license.json exception.json
 
-build/%.md: %.json license.mustache.md | build $(MUSTACHE)
+build/%.md: %.json text.mustache.md | build $(MUSTACHE)
 	$(MUSTACHE) $^ | sed '/^\s*$$/d' | awk 'ORS="\n\n"' | fmt -60 -u > $@
 
 license.json:
