@@ -23,3 +23,6 @@ build:
 
 clean:
 	rm -rf build
+
+$(MUSTACHE):
+	npm ci
