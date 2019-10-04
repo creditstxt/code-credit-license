@@ -57,7 +57,7 @@ If this software includes software and contributor names to credit in a standard
 
 ## Right to Decline
 
-On written request from a contributor, you must remove their credit for works they do not want to be associated with.  On written request from all contributors to this software, you must remove credit for this software.
+On written request from a contributor, you must remove their name from any credits you make available for works they do not want to be associated with going forward.  On written request from all contributors to this software, you must do the same for the name of this software.
 
 {{#license}}
 ## Reliability
