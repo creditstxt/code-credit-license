@@ -16,7 +16,7 @@ These terms add to the terms of the license for this software.  These terms beco
 {{#license}}
 ## Purpose
 
-This license gives everyone as much permission to work with this software as possible, while protecting contributors from liability and requiring credit for their work.
+This license gives everyone as much permission to work with this software as possible, while protecting contributors from liability and requiring that they be credited.
 
 ## Acceptance
 
