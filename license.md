@@ -1,8 +1,6 @@
-# Credit License
+# Credit License 1.0.0-pre.2
 
-Development Draft
-
-<https://github.com/creditstxt/credit-license>
+<https://creditstxt.com/license/1.0.0-pre.2>
 
 ## Purpose
 
