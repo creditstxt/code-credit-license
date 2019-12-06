@@ -24,7 +24,7 @@ Each contributor licenses you to do everything with this software that would oth
 
 ## Credit
 
-You must give this software and each contributor credit for contribution to other works, be they goods or services, that you produce or provide using this software.
+You must give this software and each contributor credit for contribution to other work, be they goods or services, that you produce or provide using this software.
 
 ## How to Credit
 
@@ -40,7 +40,7 @@ If this software includes software and contributor names to credit in a standard
 
 ## Right to Decline
 
-On written request from a contributor, you must remove their name from any credits you make available for works they do not want to be associated with going forward.  On written request from all contributors to this software, you must do the same for the name of this software.
+On written request from a contributor, you must remove their name from any credits you make available for work they do not want to be associated with going forward.  On written request from all contributors to this software, you must do the same for the name of this software.
 
 ## Excuse
 
