@@ -10,13 +10,13 @@ This license gives everyone as much permission to work with this software as pos
 
 In order to receive this license, you must agree to its rules.  The rules of this license are both obligations under that agreement and conditions to your license.  You must not do anything with this software that triggers a rule that you cannot or will not follow.
 
-## Copyright
-
-Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
-
 ## Notices
 
 You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license.
+
+## Copyright
+
+Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
 
 ## Excuse
 
