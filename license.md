@@ -36,7 +36,7 @@ If widespread convention dictates a particular way to give credit for your kind 
 
 ## Who to Credit
 
-If this software includes software and contributor names to credit in a standard way, such as in software package metadata or on an "about" page or screen, you may rely on that information for accuracy and completeness in giving credit.  If this software does not include names to credit in a standard way, but includes a link to a webpage for this software, you must investigate that webpage for names to credit.  If this software provides neither names to credit nor a software-webpage link, you do not have to perform independent research to find names to credit.
+If this software includes this software's name and contributor names to credit in a standard way, such as in software package metadata or on an "about" page or screen, you may rely on that information for accuracy and completeness in giving credit.  If this software does not include names to credit in a standard way, but includes a link to a webpage for this software, you must investigate that webpage for names to credit.  If this software provides neither names to credit nor a software-webpage link, you do not have to perform independent research to find names to credit.
 
 ## Right to Decline
 
