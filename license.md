@@ -18,10 +18,6 @@ You must ensure that everyone who gets a copy of any part of this software from 
 
 Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
 
-## Excuse
-
-If anyone notifies you in writing that you have not complied with [Notices](#notices) or [Credit](#credit), you can keep your license by taking all practical steps to comply within 30 days after the notice.  If you do not do so, your license ends immediately.
-
 ## Patent
 
 Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
@@ -45,6 +41,10 @@ If this software includes software and contributor names to credit in a standard
 ## Right to Decline
 
 On written request from a contributor, you must remove their name from any credits you make available for works they do not want to be associated with going forward.  On written request from all contributors to this software, you must do the same for the name of this software.
+
+## Excuse
+
+If anyone notifies you in writing that you have not complied with [Notices](#notices) or [Credit](#credit), you can keep your license by taking all practical steps to comply within 30 days after the notice.  If you do not do so, your license ends immediately.
 
 ## Reliability
 
