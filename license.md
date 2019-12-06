@@ -2,6 +2,8 @@
 
 Development Draft
 
+<https://github.com/creditstxt/credit-license>
+
 ## Purpose
 
 This license gives everyone as much permission to work with this software as possible, while protecting contributors from liability and requiring credit for their work.
@@ -12,7 +14,7 @@ In order to receive this license, you must agree to its rules.  The rules of thi
 
 ## Notices
 
-You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license.
+You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a or a link to the URL above.
 
 ## Copyright
 
