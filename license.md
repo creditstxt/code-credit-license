@@ -4,7 +4,7 @@ Development Draft
 
 ## Purpose
 
-This license gives everyone as much permission to work with this software as possible, while protecting contributors from liability and requiring that they be credited.
+This license gives everyone as much permission to work with this software as possible, while protecting contributors from liability and requiring credit for their work.
 
 ## Acceptance
 
