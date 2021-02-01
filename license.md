@@ -26,7 +26,7 @@ Each contributor licenses you to do everything with this software that would oth
 
 ## Credit
 
-You must give this software and each contributor credit for contributing to goods or services that you produce or provide using this software.
+You must give this software and each contributor credit for contributing to goods or services that you develop, test, produce, or provide using this software.
 
 ## How to Credit
 
