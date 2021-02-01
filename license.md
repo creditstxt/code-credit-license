@@ -28,7 +28,7 @@ Each contributor licenses you to do everything with this software that would oth
 
 You must give this software and each contributor credit for contributing to goods or services that you develop, test, produce, or provide using this software.
 
-## How to Credit
+## How to Give Credit
 
 In general, you must give credit in such a way that your audience can freely and readily find a written notice identifying this software, by name, as a contribution to your work, as well as each contributor, by name, as a contributor to this software.  You must not do anything to stop your audience from sharing, publishing, or using credits.
 
