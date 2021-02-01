@@ -6,15 +6,15 @@ Development Draft
 
 ## Purpose
 
-This license gives everyone as much permission to work with this software as possible, while protecting contributors from liability and requiring credit for their work.
+This license allows everyone as much permission to work with this software as possible, while protecting contributors from liability and requiring credit for their work.
 
-## Acceptance
+## Agreement
 
-In order to receive this license, you must agree to its rules.  The rules of this license are both obligations under that agreement and conditions to your license.  You must not do anything with this software that triggers a rule that you cannot or will not follow.
+In order to receive this license, you have to agree to its rules.  Those rules are both obligations under that agreement and conditions to your license.  Don't do anything with this software that triggers a rule you can't or won't follow.
 
 ## Notices
 
-You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a or a link to the URL above.
+Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to the URL above.
 
 ## Copyright
 
