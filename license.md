@@ -42,7 +42,7 @@ If contributors provide their names or the name of this software along with the 
 
 ## Right to Decline
 
-On written request from a contributor, you must remove their name from any credits you make available for any good or service.  On written request from all contributors to this software, you must do the same for the name of this software.
+On written request from a contributor, you must remove their name from the credits for your good or service going forward.  On written request from all contributors to this software, you must do the same for the name of this software.
 
 ## Excuse
 
