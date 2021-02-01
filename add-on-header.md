@@ -1,6 +1,6 @@
-# Credit Add-On
+# Posterity License Add-On
 
 Development Draft
 
-<https://github.com/creditstxt/credit-license>
+<https://github.com/licensezero/posterity-public-license>
 

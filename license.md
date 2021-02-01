@@ -1,8 +1,8 @@
-# Credit License
+# Posterity Public License
 
 Development Draft
 
-<https://github.com/creditstxt/credit-license>
+<https://github.com/licensezero/posterity-public-license>
 
 ## Purpose
 
