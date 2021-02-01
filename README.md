@@ -22,19 +22,11 @@ On release of 1.0.0, the terms will be available to use in two ways:
 
 1.  As a complete license that grants broad permission to use your software, but requires credit.
 
-2.  As an addition or "exception" to an existing license, like MIT, BSD, Apache, or GPL.
+2.  As an add-on to an existing license, like MIT, BSD, Apache, or GPL.
 
 Those who want to use the complete license can copy it where they would usually copy MIT, BSD, Apache, GPL, or the like.
 
-Those who want to use the exception can append the exception's text to text of MIT, BSD, Apache, GPL, and so on.  If the project comes with an [SPDX](https://spdx.org) license expression, that can be set to, say, `(MIT WITH Credit-Requirement-1.0.0)`.
-
-## Roadmap
-
-- [ ] Version 1.0.0
-
-- [ ] Compile a registry of projects using the terms.
-
-- [ ] Submit the license and exception to [SPDX](https://spdx.org) for standardization.
+Those who want to use the exception can append the exception's text to text of MIT, BSD, Apache, GPL, and so on.
 
 ## Permission
 
@@ -43,3 +35,13 @@ Each contributor licenses you to do everything with the legal text that would ot
 If you make changes to the legal text, you must change or remove the title of the text.
 
 ***As far as the law allows, the legal text comes as is, without any warranty at all, and no contributor will be liable to anyone for any damages related to the text or its use, for any kind of legal claim.***
+
+## Building
+
+To build official Markdown copies, run `make`.  To build PDF copies, run `make pdf`.  You will need:
+
+- `awk`
+- `fmt`
+- `grep`
+- `make`
+- Pandoc
