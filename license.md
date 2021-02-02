@@ -35,7 +35,7 @@ In general, you must give credit in such a way that others can freely and readil
 
 ## Conventions
 
-If widespread convention dictates a particular way to give credit for your kind of good or service, such as by end credit, citation, acknowledgment, or billing, then follow that convention.  For software provided to users to run on their own computers, give credit in documentation, notice files, and any "about" page or screen.  For software provided as a web service, give credit in `credits.txt` according to <https://creditstxt.com>.
+If widespread convention dictates a particular way to give credit for your kind of goods or services, such as by end credit, citation, acknowledgment, or billing, then follow that convention.  For software provided to users to run on their own computers, give credit in documentation, notice files, and any "about" page or screen.  For software provided as a web service, give credit in `credits.txt` according to <https://creditstxt.com>.
 
 ## Who to Credit
 
@@ -43,7 +43,7 @@ If contributors provide their names or the name of this software along with the 
 
 ## Declining Credit
 
-On written request from a contributor, you must remove their name from the credits for your good or service going forward.  On written request from all contributors to this software, you must do the same for the name of this software.
+On written request from a contributor, you must remove their name from the credits for your goods or services going forward.  On written request from all contributors to this software, you must do the same for the name of this software.
 
 <!-- End Add-On -->
 ## Excuse
