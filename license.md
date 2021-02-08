@@ -31,7 +31,7 @@ You must give this software and each contributor credit for contributing to good
 
 ## How to Give Credit
 
-In general, you must give credit in such a way that others can freely and readily find a written notice identifying this software, by name, as a contribution to your goods or services, as well as each contributor, by name, as a contributor to this software.  You must not do anything to stop others from sharing, publishing, or using credits.
+In general, you must give credit in such a way that others can freely and readily find a written notice identifying this software, by name, as a contribution to your goods or services, as well as each contributor, by name, as a contributor to this software.  You must not do anything to stop others from sharing, publishing, or using those credits.
 
 ## Conventions
 
