@@ -43,7 +43,7 @@ If contributors provide their names or the name of this software along with the 
 
 ## Declining Credit
 
-On written request from a contributor, you must remove their name from the credits for your goods or services going forward.  On written request from all contributors to this software, you must do the same for the name of this software.
+On written request from a contributor, you must remove their name from the credits for your goods or services going forward.  On written request from all credited contributors to this software, you must do the same for the name of this software.
 
 <!-- End Add-On -->
 ## Excuse
