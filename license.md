@@ -48,7 +48,7 @@ On written request from a contributor, you must remove their name from the credi
 <!-- End Add-On -->
 ## Excuse
 
-If anyone notifies you in writing that you have not complied with [Notices](#notices) or [Credit](#credit), you can keep your license by taking all practical steps to comply within 30 days after the notice.  If you do not do so, your license ends immediately.
+If anyone notifies you in writing that you have not complied with [Notices](#notices) or [Credit](#credit), you can keep your license by taking all practical steps to comply within thirty days after the notice.  If you do not do so, your license ends immediately.
 
 ## Reliability
 
