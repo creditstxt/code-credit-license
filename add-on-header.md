@@ -1,6 +1,4 @@
-# Credit Add-On
+# Credit Add-On 1.0.0-pre.1
 
-Development Draft
-
-<https://github.com/creditstxt/credit-license>
+<https://creditstxt.com/license/1.0.0-pre.1>
 
