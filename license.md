@@ -18,7 +18,7 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 <!-- Start Add-On -->
 ## Credit
 
-You must give this software and each contributor credit for contributing to goods or services that you develop, test, produce, or provide using this software.
+You must give this software and each contributor credit for contributing to goods or services that you develop, test, produce, or provide with the help of this software.
 
 ## How to Give Credit
 
