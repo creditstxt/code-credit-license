@@ -16,7 +16,7 @@ In order to receive this license, you have to agree to its rules.  Those rules a
 Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to <https://github.com/creditstxt/credit-license>.
 
 <!-- Start Add-On -->
-## Credit
+## Give Credit
 
 You must give this software and each contributor credit for contributing to goods or services that you develop, test, produce, or provide with the help of this software.
 
