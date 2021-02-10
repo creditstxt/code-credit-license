@@ -1,8 +1,10 @@
-# Credit License
+# Code Credit License
+
+<https://codecreditlicense.com>
 
 > You aren't dead while your name is still spoken.
 
-This repository contains development files for legal terms that software developers can use to require credit for their work.  You can find the legal terms built from these development files [on the GitHub releases page](https://github.com/creditstxt/credit-license/releases).
+This repository contains development files for legal terms that software developers can use to require credit for their work.  You can find the legal terms built from these development files [on the GitHub releases page](https://github.com/creditstxt/credit-license/releases) and at <https://codecreditlicense.com>.
 
 Using those legal terms, software developers can require the same kind of credit that contributors to other kinds of work---motion pictures, music, video games, books, and so on---[already receive](./conventions.md).  They can also help to establish a norm of appropriate credit in the software industry.
 
@@ -12,13 +14,11 @@ The license exception adds a credit requirement to any other license.  Common op
 
 ## Status
 
-The project is currently working toward version 1.0.0.
-
 That text is a [flipped form](https://flippedform.com/) in everyday English.  If something doesn't make sense to you, that's the terms' fault, not yours.  Please [open an issue on GitHub](https://github.com/creditstxt/credit-license/issues/new) so we can fix it together.
 
 ## Using the Terms
 
-On release of 1.0.0, the terms will be available to use in two ways:
+The terms will are available to use in two ways:
 
 1.  As a complete license that grants broad permission to use your software, but requires credit.
 
