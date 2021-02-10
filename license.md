@@ -1,4 +1,4 @@
-# Credit License
+# Code Credit License
 
 Development Draft
 
