@@ -15,14 +15,6 @@ In order to receive this license, you have to agree to its rules.  Those rules a
 
 Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to <https://github.com/creditstxt/credit-license>.
 
-## Copyright
-
-Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
-
-## Patent
-
-Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
-
 <!-- Start Add-On -->
 ## Credit
 
@@ -45,6 +37,14 @@ If contributors provide their names or the name of this software along with the 
 On written request from a contributor, you must remove their name from the credits for your goods or services going forward.  On written request from all credited contributors to this software, you must do the same for the name of this software.
 
 <!-- End Add-On -->
+## Copyright
+
+Each contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.
+
+## Patent
+
+Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.
+
 ## Excuse
 
 If anyone notifies you in writing that you have not complied with [Notices](#notices) or [Credit](#credit), you can keep your license by taking all practical steps to comply within thirty days after the notice.  If you do not do so, your license ends immediately.
