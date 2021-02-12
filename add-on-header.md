@@ -2,5 +2,5 @@
 
 Development Draft
 
-<https://github.com/creditstxt/credit-license>
+<https://github.com/creditstxt/code-credit-license>
 
