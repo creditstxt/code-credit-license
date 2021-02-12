@@ -1,4 +1,4 @@
-# Credit Add-On
+# Code Credit Add-On
 
 Development Draft
 
