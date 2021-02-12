@@ -1,6 +1,6 @@
 # Code Credit Add-On
 
-Development Draft
+Version 1.0.1
 
-<https://github.com/creditstxt/credit-license>
+<https://codecreditlicense.com/add-on/1.0.1>
 
