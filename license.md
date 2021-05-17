@@ -17,11 +17,11 @@ Make sure everyone who gets a copy of any part of this software from you, with o
 <!-- Start Add-On -->
 ## Give Credit
 
-You must give this software and each contributor credit for contributing to goods or services that you develop, test, produce, or provide with the help of this software.
+Give this software and each contributor credit for contributing to goods or services that you develop, test, produce, or provide with the help of this software.
 
 ## How to Give Credit
 
-In general, you must give credit in such a way that others can freely and readily find a written notice identifying this software, by name, as a contribution to your goods or services, as well as each contributor, by name, as a contributor to this software.  You must not do anything to stop others from sharing, publishing, or using those credits.
+In general, give credit in such a way that others can freely and readily find a written notice identifying this software, by name, as a contribution to your goods or services, as well as each contributor, by name, as a contributor to this software.  Do not do anything to stop others from sharing, publishing, or using those credits.
 
 ## Conventions
 
@@ -29,11 +29,11 @@ If widespread convention dictates a particular way to give credit for your kind 
 
 ## Who to Credit
 
-If contributors give their names or the name of this software along with the software in a conventional way, such as in software package metadata or on an "about" page or screen, you may rely on the names they give that way to be accurate and complete.  If contributors don't give names that way, but include a link to a homepage for this software, you must investigate that homepage for names to credit.  If contributors give neither names to credit nor a link to a homepage, you do not have to do independent research to find names to credit.
+If contributors give their names or the name of this software along with the software in a conventional way, such as in software package metadata or on an "about" page or screen, you may rely on the names they give that way to be accurate and complete.  If contributors don't give names that way, but include a link to a homepage for this software, investigate that homepage for names to credit.  If contributors give neither names to credit nor a link to a homepage, you do not have to do independent research to find names to credit.
 
 ## Declining Credit
 
-On written request from a contributor, you must remove their name from the credits for your goods or services going forward.  On written request from all credited contributors to this software, you must do the same for the name of this software.
+On written request from a contributor, remove their name from the credits for your goods or services going forward.  On written request from all credited contributors to this software, do the same for the name of this software.
 
 <!-- End Add-On -->
 ## Copyright
