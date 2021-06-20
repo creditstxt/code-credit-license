@@ -8,7 +8,7 @@ This repository contains development files for legal terms that software develop
 
 Using those legal terms, software developers can require the same kind of credit that contributors to other kinds of work---motion pictures, music, video games, books, and so on---[already receive](./conventions.md).  They can also help to establish a norm of appropriate credit in the software industry.
 
-The license adds a credit requirement to the [Blue Oak Model License](https://blueoakcouncil.org/license/1.0.0), a very permissive license to MIT or BSD, but revised for maximum legal clarity and readability.
+The license adds a credit requirement to the [Blue Oak Model License](https://blueoakcouncil.org/license/1.0.0), a very permissive license like MIT or BSD, but revised for maximum legal clarity and readability.
 
 The license exception adds a credit requirement to any other license.  Common open source software licenses like MIT, BSD, Apache, Blue Oak, and GPL do not effectively require credit.  But applying, say, the MIT License _plus_ the Credit Requirement gives others all the rights they usually receive under the MIT License, so long as they give credit.
 
