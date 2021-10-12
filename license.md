@@ -29,7 +29,7 @@ If widespread convention dictates a particular way to give credit for your kind 
 
 ## Who to Credit
 
-If contributors give their names or the name of this software along with the software in a conventional way, such as in software package metadata or on an "about" page or screen, you may rely on the names they give that way to be accurate and complete.  If contributors don't give names that way, but include a link to a homepage for this software, investigate that homepage for names to credit.  If contributors give neither names to credit nor a link to a homepage, you do not have to do independent research to find names to credit.
+If contributors give their names or the name of this software along with the software according to a widespread convention, such as in software package metadata or on an "about" page or screen, you may rely on the names they give that way to be accurate and complete.  If contributors don't give names that way, but include a link to a homepage for this software, investigate that homepage for names to credit.  If contributors give neither names to credit nor a link to a homepage, you do not have to do independent research to find names to credit.
 
 ## Declining Credit
 
